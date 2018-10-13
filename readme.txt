@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 stash test
 pull test
 now in branch dev
+now in branch dev-1
